@@ -19,8 +19,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hemantmohanty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+  ### 💭 _"Code is poetry written in logic"_
+  
+  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+  
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hemantmohanty&limit=5&theme=dark&combine_all_yearly_contributions=true)
