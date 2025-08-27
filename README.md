@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python & Flask projects, exploring AI/ML applications<br>👯 I’m looking to collaborate on open-source Python projects & web apps<br>🤝 I’m looking for help with Data Science and Flask deployment<br>🌱 I’m currently learning Machine Learning, Data Science, and Full-Stack Development<br>💬 Ask me about Python, Flask, HTML/CSS, AI/ML basics<br>⚡ Fun fact: I love turning ideas into code and learning something new every day 🚀
+🔭 I’m currently working on Python & Flask projects, exploring AI/ML applications<br>👯 I’m looking to collaborate on open-source Python projects & web apps<br>🤝 I’m looking for help with Data Science and Flask deployment<br>🌱 I’m currently learning Machine Learning, Data Science, and Full-Stack Development<br>💬 Ask me about Python, Flask, HTML/CSS, JAVASCRIPT, AI/ML basics<br>⚡ Fun fact: I love turning ideas into code and learning something new every day 🚀
 
 
 ## 🌐 Socials:
