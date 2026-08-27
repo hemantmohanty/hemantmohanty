@@ -138,6 +138,14 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Hemantmohanty07?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
+
 <div align="center">
   
   ### 💭 _"Code is poetry written in logic"_
