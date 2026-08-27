@@ -116,12 +116,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hemantmohanty&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantmohanty&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=hemantmohanty&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hemantmohanty&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantmohanty&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7F50&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=hemantmohanty&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7F50&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -133,15 +133,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemantmohanty&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hemantmohanty&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-trophies.vercel.app/?username=hemantmohanty&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
