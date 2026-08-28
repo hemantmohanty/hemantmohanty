@@ -120,14 +120,6 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hemantmohanty&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hemantmohanty&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7F50&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantmohanty&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
 ---
 
 ### 🏆 GitHub Trophies
